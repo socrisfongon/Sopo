@@ -1,3 +1,4 @@
 # Sopo
 Mapa Sopó
-Esta es un apruba del uso de GitHub
+Esta es una prueba del uso de GitHub.
+Estoy iniciando ...
